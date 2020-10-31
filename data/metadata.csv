@@ -1,0 +1,124 @@
+Table Name, Column Name, Column Type, ClusteringKey, Indexed 
+Student,TouchDate,java.util.Date,FALSE,FALSE
+Student,gpa,java.lang.Double,FALSE,FALSE
+Student,SSID,java.lang.Integer,FALSE,FALSE
+Student,name,java.lang.String,FALSE,FALSE
+Student,id,java.lang.Integer,TRUE,TRUE
+shedo,TouchDate,java.util.Date,FALSE,FALSE
+shedo,gpa,java.lang.Double,FALSE,FALSE
+shedo,SSID,java.lang.Integer,FALSE,FALSE
+shedo,name,java.lang.String,FALSE,FALSE
+shedo,id,java.lang.Integer,TRUE,TRUE
+shedo2,TouchDate,java.util.Date,FALSE,FALSE
+shedo2,gpa,java.lang.Double,FALSE,FALSE
+shedo2,SSID,java.lang.Integer,FALSE,FALSE
+shedo2,name,java.lang.String,FALSE,FALSE
+shedo2,id,java.lang.Integer,TRUE,TRUE
+manga,TouchDate,java.util.Date,FALSE,FALSE
+manga,gpa,java.lang.Double,FALSE,FALSE
+manga,SSID,java.lang.Integer,FALSE,FALSE
+manga,name,java.lang.String,FALSE,FALSE
+manga,id,java.lang.Integer,TRUE,FALSE
+Course,TouchDate,java.util.Date,FALSE,FALSE
+Course,Name,java.lang.String,FALSE,FALSE
+Course,Code,java.lang.String,FALSE,FALSE
+Course,Hours,java.lang.Integer,FALSE,FALSE
+Course,Major_ID,java.lang.Integer,FALSE,FALSE
+Course,ID,java.lang.Integer,TRUE,TRUE
+Mangm,TouchDate,java.util.Date,FALSE,FALSE
+Mangm,Name,java.lang.String,FALSE,FALSE
+Mangm,Code,java.lang.String,FALSE,FALSE
+Mangm,Poly,java.awt.Polygon,TRUE,FALSE
+Mangm,Hours,java.lang.Integer,FALSE,FALSE
+Mangm,Major_ID,java.lang.Integer,FALSE,FALSE
+Mangm,Semester,java.lang.Integer,FALSE,FALSE
+SUPERMAN,TouchDate,java.util.Date,FALSE,FALSE
+SUPERMAN,Name,java.lang.String,FALSE,FALSE
+SUPERMAN,Code,java.lang.String,FALSE,FALSE
+SUPERMAN,Poly,java.awt.Polygon,TRUE,FALSE
+SUPERMAN,Hours,java.lang.Integer,FALSE,FALSE
+SUPERMAN,Major_ID,java.lang.Integer,FALSE,FALSE
+SUPERMAN,Semester,java.lang.Integer,FALSE,FALSE
+Batman,TouchDate,java.util.Date,FALSE,FALSE
+Batman,Name,java.lang.String,FALSE,FALSE
+Batman,Code,java.lang.String,FALSE,FALSE
+Batman,date,java.util.Date,TRUE,FALSE
+Batman,Hours,java.lang.Integer,FALSE,FALSE
+Batman,Major_ID,java.lang.Integer,FALSE,FALSE
+Batman,Semester,java.lang.Integer,FALSE,FALSE
+MohamedSliman,TouchDate,java.util.Date,FALSE,FALSE
+MohamedSliman,Name,java.lang.String,FALSE,FALSE
+MohamedSliman,Code,java.lang.String,FALSE,FALSE
+MohamedSliman,Hours,java.lang.Integer,FALSE,FALSE
+MohamedSliman,Major_ID,java.lang.Integer,FALSE,FALSE
+MohamedSliman,Semester,java.lang.Integer,FALSE,FALSE
+Course,Semester,java.lang.Integer,FALSE,TRUE
+MohamedSliman,date,java.util.Date,TRUE,TRUE
+xnxx,TouchDate,java.util.Date,false,false
+xnxx,Name,java.lang.String,false,false
+xnxx,Code,java.lang.String,false,false
+xnxx,Hours,java.lang.Integer,false,false
+xnxx,poly,java.awt.Polygon,true,false
+xnxx,Major_ID,java.lang.Integer,false,false
+xnxx,Semester,java.lang.Integer,false,false
+kosom el index,TouchDate,java.util.Date,false,false
+kosom el index,Name,java.lang.String,false,false
+kosom el index,Code,java.lang.String,false,false
+kosom el index,Hours,java.lang.Integer,false,false
+kosom el index,Major_ID,java.lang.Integer,false,false
+kosom el index,Semester,java.lang.Integer,false,false
+kosom el index,poly,java.awt.Polygon,TRUE,TRUE
+kosom el index2,TouchDate,java.util.Date,false,false
+kosom el index2,Name,java.lang.String,false,false
+kosom el index2,Code,java.lang.String,false,false
+kosom el index2,Hours,java.lang.Integer,false,false
+kosom el index2,Major_ID,java.lang.Integer,false,false
+kosom el index2,poly,java.awt.Polygon,TRUE,TRUE
+kosom el index2,Semester,java.lang.Integer,FALSE,TRUE
+danta retard,TouchDate,java.util.Date,false,false
+danta retard,Name,java.lang.String,false,false
+danta retard,Code,java.lang.String,false,false
+danta retard,Hours,java.lang.Integer,false,false
+danta retard,Major_ID,java.lang.Integer,false,false
+danta retard,poly,java.awt.Polygon,TRUE,TRUE
+danta retard,Semester,java.lang.Integer,FALSE,TRUE
+danta 2retard,TouchDate,java.util.Date,false,false
+danta 2retard,Name,java.lang.String,false,false
+danta 2retard,Code,java.lang.String,false,false
+danta 2retard,Hours,java.lang.Integer,false,false
+danta 2retard,Major_ID,java.lang.Integer,false,false
+danta 2retard,poly,java.awt.Polygon,TRUE,TRUE
+danta 2retard,Semester,java.lang.Integer,FALSE,TRUE
+danta 3retard,TouchDate,java.util.Date,false,false
+danta 3retard,Name,java.lang.String,false,false
+danta 3retard,Code,java.lang.String,false,false
+danta 3retard,Hours,java.lang.Integer,false,false
+danta 3retard,Major_ID,java.lang.Integer,false,false
+danta 3retard,poly,java.awt.Polygon,TRUE,TRUE
+danta 3retard,Semester,java.lang.Integer,FALSE,TRUE
+Naruto,TouchDate,java.util.Date,false,false
+Naruto,Name,java.lang.String,false,false
+Naruto,Semester,java.lang.Integer,false,false
+Naruto,dob,java.lang.Double,TRUE,TRUE
+Saski,TouchDate,java.util.Date,false,false
+Saski,Name,java.lang.String,false,false
+Saski,Semester,java.lang.Integer,false,false
+Saski,dob,java.lang.Double,TRUE,TRUE
+YUGI-YOH,TouchDate,java.util.Date,false,false
+YUGI-YOH,Name,java.lang.String,false,false
+YUGI-YOH,Poly,java.awt.Polygon,true,false
+YUGI-YOH,Semester,java.lang.Integer,false,false
+YUGI2YOH,TouchDate,java.util.Date,false,false
+YUGI2YOH,Name,java.lang.String,false,false
+YUGI2YOH,Poly,java.awt.Polygon,true,false
+YUGI2YOH,Semester,java.lang.Integer,false,false
+testString,TouchDate,java.util.Date,false,false
+testString,Name,java.lang.String,true,false
+testString,Semester,java.lang.Integer,false,false
+testString,Poly,java.awt.Polygon,FALSE,TRUE
+testString,date,java.util.Date,FALSE,TRUE
+testStringtwo,TouchDate,java.util.Date,false,false
+testStringtwo,Name,java.lang.String,true,false
+testStringtwo,Semester,java.lang.Integer,false,false
+testStringtwo,Poly,java.awt.Polygon,FALSE,TRUE
+testStringtwo,date,java.util.Date,FALSE,TRUE
